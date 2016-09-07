@@ -15,5 +15,3 @@ A sample implementation of
     - Homepage element to validate
     - Etc...
 - Output: Summary of result
-
-
